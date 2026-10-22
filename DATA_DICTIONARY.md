@@ -2,6 +2,7 @@
 
 | Column | Description |
 |---|---|
+| `Unnamed: 0` | an index column from the original CSV export; it can be removed |
 | `track_id` | Spotify track identifier |
 | `artists` | Artist credit; multiple artists may be separated by `;` |
 | `album_name` | Album name |
