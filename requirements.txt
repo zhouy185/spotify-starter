@@ -1,0 +1,4 @@
+pandas>=2.0
+polars>=1.0
+duckdb>=1.0
+plotly>=5.0
